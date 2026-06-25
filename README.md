@@ -213,7 +213,7 @@
     <p class="note">Tip: keep a diverse diet and avoid unnecessary antibiotics to help maintain a healthy microbiome.</p>
 
     <footer>
-      Want this saved to a file in your repo or styled differently? I can add images, links to references, or commit this file to Lydiaamaka2/My-firstcode if you want.
+      stay tuned
     </footer>
   </main>
 </body>
